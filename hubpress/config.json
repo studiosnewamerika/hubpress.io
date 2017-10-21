@@ -5,6 +5,22 @@
     "branch": "master"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://studiosnewamerika.github.io",
+    "hubpress": "https://studiosnewamerika.github.io",
+    "theme": "//studiosnewamerika.github.io/themes/casper",
+    "images": "https://studiosnewamerika.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
